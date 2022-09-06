@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/NitinGautam09)
 # 💫 About Me:
 ## Hi 👋, I'm Nitin Gautam<br>A passionate Full Stack Web Developer
-🌱 I’m currently learning MERN Stack<br>💬 Ask me about Javascript,HTML,CSS<br>📫 How to reach me suman1vastrakar@gmail.com
+🌱 I’m currently learning MERN Stack<br>💬 Ask me about Javascript,HTML,CSS<br>📫 How to reach me hinitingautam@gmail.com
 
 
 # 💻 Tech Stack:
