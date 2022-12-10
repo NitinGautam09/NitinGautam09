@@ -1,5 +1,9 @@
 <img src="https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif"><br>
-![Profile views](https://gpvc.arturio.dev/NitinGautam09)
+<div><h1 align="center">Hi 👋, I'm Nitin Gautam</h1>
+<h3 align="center">Full Stack Web Developer from Nagpur,Maharashtra,India</h3><br>
+     </div>
+  <div>
+<!-- ![Profile views](https://gpvc.arturio.dev/NitinGautam09) -->
 
 # 💫 About Me:
 
@@ -32,7 +36,7 @@
 
 ---
  
-
+  </div>
 
   
 
