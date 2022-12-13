@@ -9,7 +9,7 @@
 
 <div align="left">
 🔭 I’m currently learning MERN Stack<br>👯 I’m looking to collaborate on<br>💬 Ask me about Javascript, HTML, CSS<br>📫 How to reach me hinitingautam@gmail.com<br>👨‍💻 All of my projects are available at https://nitingautam09.github.io/<br>
-📄 Know about me [http://bit.ly/Nitin_Gautam_Resume](http://bit.ly/Nitin_Gautam_Resume) <br>You can connect with me on LinkedIn, Twitter<br>⚡ Fun fact We All Are Star Dust ✨
+📄 Know about me [http://bit.ly/Nitin_Gautam_Resume] <br>You can connect with me on LinkedIn, Twitter<br>⚡ Fun fact We All Are Star Dust ✨
      </div>
      ---
 
